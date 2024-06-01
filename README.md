@@ -1,0 +1,2 @@
+# screen_0_bright_control
+screen_0_bright_control
