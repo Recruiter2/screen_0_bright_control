@@ -3,6 +3,7 @@ The python files allows to ccontrol the first screen brightness by calling one o
 
   `python file_name.py` 
   </br>
+  </br>
 then u can just make a shortcut to make it work with the keyboard shorcut config
 don't forget python b4 teh path as it's not a shell file 
 The shell files links to the python files so u can call directely use the scripts without messing with path modifications issues
